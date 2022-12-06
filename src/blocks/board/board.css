@@ -3,4 +3,13 @@
   border-radius: 5px;
   height: 300px;
   width: 300px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
 }
