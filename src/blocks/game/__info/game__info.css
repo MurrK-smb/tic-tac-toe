@@ -1,4 +1,6 @@
 .game__info {
+  border: black solid 5px;
+
   width: 200px;
   background-color: #a9e8da;
 }

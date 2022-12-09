@@ -3,6 +3,8 @@
 @import "./blocks/square/square.css";
 @import "./blocks/square/_button/square__button.css";
 @import "./blocks/game/game.css";
+@import "./blocks/game/__container/game__container.css";
+@import "./blocks/game/__title/game__title.css";
 @import "./blocks/game/__board/game__board.css";
 @import "./blocks/game/__info/game__info.css";
 
