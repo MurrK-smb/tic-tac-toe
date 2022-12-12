@@ -1,6 +1,4 @@
 .board {
-  border: black solid 5px;
-  border-radius: 5px;
   width: 500px;
   height: 500px;
   display: grid;

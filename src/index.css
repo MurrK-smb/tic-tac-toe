@@ -7,14 +7,7 @@
 @import "./blocks/game/__title/game__title.css";
 @import "./blocks/game/__board/game__board.css";
 @import "./blocks/game/__info/game__info.css";
-
-.status {
-  margin-bottom: 10px;
-}
-
-.kbd-navigation .square:focus {
-  background: #ddd;
-}
+@import "./blocks/game/__status/game__status.css";
 
 * {
   border: solid red 1px;
